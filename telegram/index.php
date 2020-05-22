@@ -1,6 +1,6 @@
 <?php
 
-$api = "bot511184134:AAGtJzt6-tU8UiePf6hHdN_ueBTP-Ny4XxM"; 
+$api = ""; 
 
 $input =  file_get_contents("php://input");
 $update = json_decode($input, true);
